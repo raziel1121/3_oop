@@ -1,3 +1,4 @@
+flight_number,plane_id,origin,dest,miles,passengers
 101,N8508,JFK,ORD,740,160
 102,N8088,JFK,PDX,2453,160
 103,N1220,PDX,ORD,1739,100
